@@ -1,2 +1,3 @@
-stylus-structure
-================
+# Stylus Structure
+
+Scott Kehr
